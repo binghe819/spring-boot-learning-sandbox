@@ -1,12 +1,13 @@
-package com.binghe.springbootlearningsandbox;
+package com.binghe.springbootdbreplication;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class SpringBootLearningSandboxApplicationTests {
+class SpringBootDbReplicationApplicationTests {
 
     @Test
     void contextLoads() {
     }
+
 }

@@ -1,12 +1,13 @@
-package com.binghe.springbootlearningsandbox;
+package com.binghe.springbootdbreplication;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SpringBootLearningSandboxApplication {
+public class SpringBootDbReplicationApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(SpringBootLearningSandboxApplication.class, args);
+        SpringApplication.run(SpringBootDbReplicationApplication.class, args);
     }
+
 }
