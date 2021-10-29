@@ -5,6 +5,6 @@
 <br>
 
 ## 목차
-
+- [Spring Boot + JPA 기반의 DB Replication 학습 테스트](./spring-boot-db-replication)
 
 
